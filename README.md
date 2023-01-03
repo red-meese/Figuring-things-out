@@ -1,2 +1,3 @@
-# Figuring-things-out
-I'm just here trying to figure out how to code
+# FinalProejct
+This is for my final project in my Intro To Programming class. 
+I'm making a text-based adventure with Unity
